@@ -1,7 +1,9 @@
 const Hizmetlerimiz = () => {
   return (
     <div>
-      <h1 className=" text-3xl p-12 text-center ">Hizmetlerimiz</h1>
+      <h1 className=" text-4xl font-extrabold p-12 text-center bg-clip-text bg-gradient-to-r from-orange-400 to-slate-200 text-transparent ">
+        Hizmetlerimiz
+      </h1>
       <div>
         <h3 className=" text-3xl p-4 ">1-Projelendirme Hizmetlerimiz</h3>
         <div className="text-2xl p-2">

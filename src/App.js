@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="main">
+    <div className="main font-rubik ">
       <MainStream />
     </div>
   );

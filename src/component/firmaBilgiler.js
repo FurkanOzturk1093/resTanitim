@@ -2,7 +2,9 @@ const FirmaBilgiler = () => {
   const LineStyle = "flex";
   return (
     <div>
-      <h1 className=" text-3xl p-12 text-center ">Firma Bilgileri</h1>
+      <h1 className=" text-4xl font-extrabold p-12 text-center bg-clip-text bg-gradient-to-r from-orange-400 to-slate-200 text-transparent ">
+        Firma Bilgileri
+      </h1>
       <div className="text-2xl">
         <div className={LineStyle}>
           <p>Firma Adı:</p>
@@ -15,12 +17,12 @@ const FirmaBilgiler = () => {
           <p>Beştepe Mahallesi Nergiz Sokak No:7A/9 Yenimahalle/Ankara</p>
         </div>
         <div className={LineStyle}>
-          <p>Firma Telefon:</p>
-          <p>0312 418 49 10</p>
+          <p>Firma Cep Telefon 1:</p>
+          <p>+90 532 153 14 12</p>
         </div>
         <div className={LineStyle}>
-          <p>Firma Fax:</p>
-          <p>0312 418 49 10</p>
+          <p>Firma Cep Telefon 2:</p>
+          <p>+90 532 169 97 14</p>
         </div>
         <div className={LineStyle}>
           <p>Firma Vergi Dairesi:</p>
