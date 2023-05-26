@@ -28,30 +28,35 @@ const Referanslar = () => {
         <SwiperSlide>
           <img
             src={slide_image_1}
-            className=" rounded-full "
-            width={300}
+            className=" rounded-full md:w-96  w-80 "
             alt="slide_image"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
             src={slide_image_2}
-            className=" rounded-full "
-            width={300}
+            className=" rounded-full md:w-96  w-80 "
             alt="slide_image"
           />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={slide_image_3} width={300} alt="slide_image" />
+          <img
+            src={slide_image_3}
+            className=" rounded-full md:w-96  w-80 "
+            alt="slide_image"
+          />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={slide_image_4} width={300} alt="slide_image" />
+          <img
+            src={slide_image_4}
+            className=" rounded-full md:w-96  w-80 "
+            alt="slide_image"
+          />
         </SwiperSlide>
         <SwiperSlide>
           <img
             src={slide_image_5}
-            className=" rounded-full "
-            width={300}
+            className=" rounded-full md:w-96  w-80 "
             alt="slide_image"
           />
         </SwiperSlide>
