@@ -19,6 +19,7 @@ const Hizmetlerimiz = () => {
           <p className="border-y p-2 border-dotted">
             Taş Duvar ve Tahkimat Projeleri
           </p>
+          <p className="border-y p-2 border-dotted">Proje Danışmanlığı</p>
         </div>
       </div>
       <div>
@@ -29,7 +30,6 @@ const Hizmetlerimiz = () => {
           </p>
           <p className="border-y p-2 border-dotted">2 Adet Damperli Kamyon</p>
           <p className="border-y p-2 border-dotted">963 Paletli Loder</p>
-          <p className="border-y p-2 border-dotted">Proje Danışmanlığı</p>
         </div>
       </div>
     </div>

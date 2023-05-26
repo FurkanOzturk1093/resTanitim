@@ -20,10 +20,14 @@ const Hakkımızda = () => {
         zaman ön planda tutmaktayız. Güvenlik ilkelerinden taviz vermeyen,
         bünyesinde çalıştırdığı elemanları hizmet içi eğitimlerle daima
         geliştiren ve yetiştiren, son teknolojiyi çalışmalarında kullanan bir
-        firmadır. Çalışmalarımızda kalite, süreklilik ve zamanında iş teslimi en
-        önemli önceliğimizdir. Kazandığımız bilgi birikimi ve tecrübelerimizle;
-        projelerinizde, çalışmalarınızda destek verebilecek bilgi ve birikime
-        sahibiz.
+        firmadır.
+        <br></br>
+        <span className="font-extrabold p-12 text-center bg-clip-text bg-gradient-to-r from-orange-400 to-slate-200 text-transparent">
+          Çalışmalarımızda kalite, süreklilik ve zamanında iş teslimi en önemli
+          önceliğimizdir. Kazandığımız bilgi birikimi ve tecrübelerimizle;
+          projelerinizde, çalışmalarınızda destek verebilecek bilgi ve birikime
+          sahibiz.
+        </span>
         <br /> <span className=" text-orange-300 ">RES Mühendislik</span> olarak
         ilkemiz ; tüm faaliyetlerimizde daima dürüst, davranmak, kaliteyi ve
         müşteri memnuniyetini ön planda tutmaktır.
