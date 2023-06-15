@@ -115,12 +115,12 @@ const Data = [
   },
   {
     isinAdi: "Rıhtım ve Çekek Yeri Projesi",
-    Kurum: "Bolu Ulaştırma 13.Bölge Müdürlüğü",
+    Kurum: "T.C Ulaştırma, Denizcilik ve Haberleşme XIII.Bölge Müdürlüğü",
     fotograflar: [],
   },
   {
     isinAdi: "Alanya Yat Limanı ve Gazipaşa Yat Limanı",
-    Kurum: "Gazi Paşa Yat Liman İşletmesi",
+    Kurum: "T.C Ulaştırma, Denizcilik ve Haberleşme VI. Bölge Müdürlüğü",
     fotograflar: [
       Img1Ant,
       Img2Ant,
@@ -137,7 +137,7 @@ const Data = [
   },
   {
     isinAdi: "Çanakkale Dalyan Balıkçı Barınağı Projesi",
-    Kurum: "Ulaştırma 4. Bölge Müdürlüğü Bursa",
+    Kurum: "T.C Ulaştırma, Denizcilik ve Haberleşme IV. Bölge Müdürlüğü",
     fotograflar: [
       Img1Can,
       Img2Can,
