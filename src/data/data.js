@@ -56,6 +56,11 @@ import Img10Tah from "./dataPics/Tahkimak/pic10.jpg";
 import Img11Tah from "./dataPics/Tahkimak/pic11.jpg";
 import Img12Tah from "./dataPics/Tahkimak/pic12.jpg";
 import Img13Tah from "./dataPics/Tahkimak/pic13.jpg";
+import Img1Izmir from "./dataPics/İzmitKandıra/pic1.jpg";
+import Img2Izmir from "./dataPics/İzmitKandıra/pic2.jpg";
+import Img3Izmir from "./dataPics/İzmitKandıra/pic3.jpg";
+import Img4Izmir from "./dataPics/İzmitKandıra/pic4.jpg";
+
 const Data = [
   {
     isinAdi: "Konya Necmettin Erbakan Üniversitesi Yol ve Alt Yapı Projeleri",
@@ -70,6 +75,12 @@ const Data = [
       Img7Nec,
       Img8Nec,
     ],
+  },
+  {
+    isinAdi:
+      "T.C Karayolları 14. Şube Şefliği İzmit-Kandıra Arası Yol Yapım Projesi",
+    Kurum: "T.C Karayolları",
+    fotograflar: [Img1Izmir, Img2Izmir, Img3Izmir, Img4Izmir],
   },
   {
     isinAdi: "Çumra Toplulaştırma Projesi",
@@ -113,20 +124,7 @@ const Data = [
       Img8Can,
     ],
   },
-  {
-    isinAdi: "Alaaddin Keykubat Üniversitesi Yol Yapım Projesi",
-    Kurum: "Alaaddin Keykubat Üniversitesi",
-    fotograflar: [
-      Img1Key,
-      Img2Key,
-      Img3Key,
-      Img4Key,
-      Img5Key,
-      Img6Key,
-      Img7Key,
-      Img8Key,
-    ],
-  },
+
   {
     isinAdi: "İstanbul Çatalca Taya Kadın RES Projesi Yol Yapım",
     Kurum: "Fiba Bank A.Ş",
@@ -149,6 +147,20 @@ const Data = [
       Img11Tah,
       Img12Tah,
       Img13Tah,
+    ],
+  },
+  {
+    isinAdi: "Alaaddin Keykubat Üniversitesi Yol Yapım Projesi",
+    Kurum: "Alaaddin Keykubat Üniversitesi",
+    fotograflar: [
+      Img1Key,
+      Img2Key,
+      Img3Key,
+      Img4Key,
+      Img5Key,
+      Img6Key,
+      Img7Key,
+      Img8Key,
     ],
   },
 ];

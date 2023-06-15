@@ -15,6 +15,9 @@ const Hizmetlerimiz = () => {
           <p className="border-y p-2 border-dotted">
             Su İçi Beton ve Projeleri
           </p>
+          <p className="border-y p-2 border-dotted">
+            İstinat Duvarı ve Perde Projeleri
+          </p>
           <p className="border-y p-2 border-dotted">Kalıp Demir Projeleri</p>
           <p className="border-y p-2 border-dotted">
             Taş Duvar ve Tahkimat Projeleri
