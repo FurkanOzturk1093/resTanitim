@@ -22,6 +22,11 @@ import Img4Ant from "./dataPics/AntalyaGaziPasa/pic4.jpg";
 import Img5Ant from "./dataPics/AntalyaGaziPasa/pic5.jpg";
 import Img6Ant from "./dataPics/AntalyaGaziPasa/pic6.jpg";
 import Img7Ant from "./dataPics/AntalyaGaziPasa/pic7.jpg";
+import Img8Ant from "./dataPics/AntalyaGaziPasa/pic8.jpg";
+import Img9Ant from "./dataPics/AntalyaGaziPasa/pic9.jpg";
+import Img10Ant from "./dataPics/AntalyaGaziPasa/pic10.jpg";
+import Img11Ant from "./dataPics/AntalyaGaziPasa/pic11.jpg";
+
 import Img1Can from "./dataPics/CanakkaleDalyan/pic1.jpg";
 import Img2Can from "./dataPics/CanakkaleDalyan/pic2.jpg";
 import Img3Can from "./dataPics/CanakkaleDalyan/pic3.jpg";
@@ -30,6 +35,11 @@ import Img5Can from "./dataPics/CanakkaleDalyan/pic5.jpg";
 import Img6Can from "./dataPics/CanakkaleDalyan/pic6.jpg";
 import Img7Can from "./dataPics/CanakkaleDalyan/pic7.jpg";
 import Img8Can from "./dataPics/CanakkaleDalyan/pic8.jpg";
+import Img9Can from "./dataPics/CanakkaleDalyan/pic9.jpg";
+import Img10Can from "./dataPics/CanakkaleDalyan/pic10.jpg";
+import Img11Can from "./dataPics/CanakkaleDalyan/pic11.jpg";
+import Img12Can from "./dataPics/CanakkaleDalyan/pic12.jpg";
+
 import Img1Key from "./dataPics/AlaaddinKeykubat/pic1.jpg";
 import Img2Key from "./dataPics/AlaaddinKeykubat/pic2.jpg";
 import Img3Key from "./dataPics/AlaaddinKeykubat/pic3.jpg";
@@ -109,7 +119,7 @@ const Data = [
     fotograflar: [],
   },
   {
-    isinAdi: "Antalya Gazi Paşa Yat Limanı",
+    isinAdi: "Alanya Yat Limanı ve Gazipaşa Yat Limanı",
     Kurum: "Gazi Paşa Yat Liman İşletmesi",
     fotograflar: [
       Img1Ant,
@@ -119,6 +129,10 @@ const Data = [
       Img5Ant,
       Img6Ant,
       Img7Ant,
+      Img8Ant,
+      Img9Ant,
+      Img10Ant,
+      Img11Ant,
     ],
   },
   {
@@ -133,6 +147,10 @@ const Data = [
       Img6Can,
       Img7Can,
       Img8Can,
+      Img9Can,
+      Img10Can,
+      Img11Can,
+      Img12Can,
     ],
   },
 
