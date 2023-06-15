@@ -60,6 +60,9 @@ import Img1Izmir from "./dataPics/İzmitKandıra/pic1.jpg";
 import Img2Izmir from "./dataPics/İzmitKandıra/pic2.jpg";
 import Img3Izmir from "./dataPics/İzmitKandıra/pic3.jpg";
 import Img4Izmir from "./dataPics/İzmitKandıra/pic4.jpg";
+import Img5Izmir from "./dataPics/İzmitKandıra/pic5.jpg";
+import Img6Izmir from "./dataPics/İzmitKandıra/pic6.jpg";
+import Img7Izmir from "./dataPics/İzmitKandıra/pic7.jpg";
 
 const Data = [
   {
@@ -80,7 +83,15 @@ const Data = [
     isinAdi:
       "T.C Karayolları 14. Şube Şefliği İzmit-Kandıra Arası Yol Yapım Projesi",
     Kurum: "T.C Karayolları",
-    fotograflar: [Img1Izmir, Img2Izmir, Img3Izmir, Img4Izmir],
+    fotograflar: [
+      Img1Izmir,
+      Img2Izmir,
+      Img3Izmir,
+      Img4Izmir,
+      Img5Izmir,
+      Img6Izmir,
+      Img7Izmir,
+    ],
   },
   {
     isinAdi: "Çumra Toplulaştırma Projesi",
